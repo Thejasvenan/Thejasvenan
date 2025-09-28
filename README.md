@@ -5,8 +5,24 @@
 - 📫 Want to connect or collaborate? Reach out to me on LinkedIn!
 - ⚡ Fun fact: My journey into tech started with a spark of inspiration from *Iron Man*. 💥 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Thejasvenan?tab=repositories&q=&type=&language=discord&sort= > <img src ='https://skillicons.dev/icons?i=arduino,raspberrypi,autocad,py,cpp,html,css,js,nodejs,react,mysql'> </a>
+### Skills 
+#### 🛠️ Programming & Scripting
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,nodejs,react,matlab" height="40" style="margin-right:10px"/>
+
+#### 🖥️ Hardware & Tools
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,autocad" height="40" style="margin-right:10px"/>
+
+#### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin-right:10px"/>
+
+#### 🖥️ OS & Platforms
+<img src="https://skillicons.dev/icons?i=linux" height="40" style="margin-right:10px"/>
+
+#### 📊 Data & ML
+<img src="https://skillicons.dev/icons?i=sklearn" height="40" style="margin-right:10px"/>
+
+#### 🎨 Design & Media
+<img src="https://skillicons.dev/icons?i=ps,pr" height="40" style="margin-right:10px"/>
 
 
 <h2> What I'm Listening to Right Now </h2>
