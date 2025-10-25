@@ -5,6 +5,8 @@
 - 📫 Want to connect or collaborate? Reach out to me on LinkedIn!
 - ⚡ Fun fact: My journey into tech started with a spark of inspiration from *Iron Man*. 💥 
 
+🌐 Check my portfolio: [Thejasvenan Portfolio](https://thejasvenan.github.io/)(Currently under development)
+
 ### Skills 
 #### 🛠️ Programming & Scripting
 <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,nodejs,react,matlab" height="40" style="margin-right:10px"/>
