@@ -26,6 +26,9 @@
 #### 🎨 Design & Media
 <img src="https://skillicons.dev/icons?i=ps,pr" height="40" style="margin-right:10px"/>
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejasvenan&layout=compact&theme=default)
 
 <h2> What I'm Listening to Right Now </h2>
 
